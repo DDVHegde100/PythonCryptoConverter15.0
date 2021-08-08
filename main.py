@@ -60,4 +60,4 @@ elif(val=='MATIC'):
 elif(val=='THETA'):
     USD=float(input('Enter the amount in USD:'))
     THETA=USD*0.156739812
-        print('%0.3f USD is equal to %0.3f MATIC' %(USD, THETA))
+        print('%0.3f USD is equal to %0.3f Theta' %(USD, THETA))
